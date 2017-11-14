@@ -1,0 +1,15 @@
+{
+    "name": "admin/demo",
+    "description": "ceshi",
+    "type": "project",
+    "require": {
+        "houdunwang/wechat": "*"
+    },
+    "minimum-stability": "dev",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
